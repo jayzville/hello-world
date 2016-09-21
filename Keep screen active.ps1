@@ -8,3 +8,5 @@ for ($i = 0; $i -lt $minutes; $i++) {
 }
 $Pos = [System.Windows.Forms.Cursor]::Position
 [System.Windows.Forms.Cursor]::Position = New-Object System.Drawing.Point((($Pos.X) + 1) , $Pos.Y)
+
+ECorp must be taken down
